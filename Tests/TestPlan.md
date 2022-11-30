@@ -8,9 +8,6 @@
   6. [Results](#6)
   7. [Conclusion](#7)
 
-<a name="1"></a>
- ## 1. Introduction
-The plan is how we are going to test the python-bot "Mega Reminder"
 
 # План
  ### Содержание
